@@ -57,7 +57,7 @@ const ContainerComponent: React.FC = () => {
                 <img
                     src="src/assets/troncoslogo.jpeg"
                     alt="Los Troncos FC Logo"
-                    className="w-80 h-80 lg:w-80 lg:h-80 mb-4 lg:mb-0"
+                    className="w-80 h-80 lg:w-80 lg:h-80 mb-4 lg:mb-0 rounded-full"
                 />
             </div>
 
@@ -72,7 +72,7 @@ const ContainerComponent: React.FC = () => {
                         <img
                             src="src/assets/Barca.png"
                             alt="Opponent Team Logo"
-                            className="w-32 h-32 mb-4 rounded-full"
+                            className="w-32 h-32 mb-4 rounded-b"
                         />
                         <span className="text-2xl font-semibold">SELECCIÓN MASÍA</span>
                     </div>
