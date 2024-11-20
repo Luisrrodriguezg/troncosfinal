@@ -17,7 +17,7 @@ const products: Product[] = [
         name: "Troncos FC Cap",
         price: 20,
         sizes: ["One Size"],
-        image: "src/assets/cap.webp",
+        image: "https://store.fcbarcelona.com/cdn/shop/files/BLMP000841018_1.jpg?v=1725977541",
     },
     {
         id: 2,
