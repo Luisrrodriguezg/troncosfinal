@@ -14,7 +14,7 @@ interface PlayerListProps {
 const PlayerList: React.FC<PlayerListProps> = ({ title, players, openPlayer, onOpenModal, onCloseModal }) => {
     return (
         <div className="my-8">
-            <h2 className="text-3xl font-bold mb-4 text-black text-center relative">
+            <h2 className="text-3xl font-bold mb-4 text-white text-center relative">
                 {title}
                 <span className="block w-24 h-1 mx-auto bg-gradient-to-r from-red-500 to-yellow-500 mt-2"></span> {/* Gradient underline */}
             </h2>
