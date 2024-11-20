@@ -55,7 +55,7 @@ const ContainerComponent: React.FC = () => {
             {/* Team Logo */}
             <div className="flex-shrink-0 text-center">
                 <img
-                    src="src/assets/troncoslogo.jpeg"
+                    src="https://img.vsco.co/a520fd/172811525/673d746ad275598201fcce0b/troncoslogo.jpeg"
                     alt="Los Troncos FC Logo"
                     className="w-80 h-80 lg:w-80 lg:h-80 mb-4 lg:mb-0 rounded-full"
                 />
@@ -70,7 +70,7 @@ const ContainerComponent: React.FC = () => {
 
                     <div className="flex flex-col items-center">
                         <img
-                            src="src/assets/Barca.png"
+                            src="https://logos-world.net/wp-content/uploads/2020/04/Barcelona-Logo.png"
                             alt="Opponent Team Logo"
                             className="w-32 h-32 mb-4 rounded-b"
                         />

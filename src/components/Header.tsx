@@ -6,7 +6,7 @@ const Header: React.FC = () => {
         <nav className="flex justify-between items-center py-4 px-6 bg-white shadow-lg">
             {/* Logo and Title */}
             <Link to="/" className="flex items-center space-x-3">
-                <img src="src/assets/troncoslogo.jpeg" alt="Team Logo" className="h-12" />
+                <img src="https://img.vsco.co/a520fd/172811525/673d746ad275598201fcce0b/troncoslogo.jpeg" alt="Team Logo" className="h-12" />
                 <span className="text-2xl font-bold text-[#D12F23]">TRONCOS FC</span> {/* Custom Red */}
             </Link>
 

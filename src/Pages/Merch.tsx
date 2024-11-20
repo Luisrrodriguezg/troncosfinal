@@ -24,7 +24,7 @@ const products: Product[] = [
         name: "Troncos FC T-Shirt Kit",
         price: 50,
         sizes: ["XS", "S", "M", "L", "XL"],
-        image: "src/assets/kit.png",
+        image: "https://img.vsco.co/cdn-cgi/image/width=640,height=800/a520fd/172811525/673d745c29274adbc5c375a2/kit.png",
     },
 ];
 
