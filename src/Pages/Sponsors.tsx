@@ -16,13 +16,13 @@ const Sponsors: React.FC = () => {
                 <Sponsor
                     name="Spotify"
                     entryDate={new Date(2024, 0)} // January 2024
-                    logoPath="src/assets/spotify.png" // Pass the path as a prop
+                    logoPath="https://www.citypng.com/public/uploads/preview/square-black-green-spotify-app-icon-png-701751694969849j7wtxvnrgo.png" // Pass the path as a prop
                     description="Spotify is supporting our team because they believe in the power of music to motivate athletes. They are passionate about bringing music and sports together. CEO: Daniel Ek."
                 />
                 <Sponsor
                     name="Nike"
                     entryDate={new Date(2024, 5)} // June 2024
-                    logoPath="src/assets/nike.jpg" // Pass the path as a prop
+                    logoPath="https://logos-world.net/wp-content/uploads/2020/04/Nike-Logo.png" // Pass the path as a prop
                     description="Nike sponsors us to promote a healthier and more active lifestyle through their sportswear. They are committed to elevating athletes to their best. CEO: John Donahoe."
                 />
             </div>
